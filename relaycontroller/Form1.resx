@@ -167,6 +167,210 @@
   <data name="&gt;&gt;WebBrowser1.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
+  <data name="&gt;&gt;Label6.Name" xml:space="preserve">
+    <value>Label6</value>
+  </data>
+  <data name="&gt;&gt;Label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label6.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Label6.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;Label5.Name" xml:space="preserve">
+    <value>Label5</value>
+  </data>
+  <data name="&gt;&gt;Label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label5.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Label5.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;Label4.Name" xml:space="preserve">
+    <value>Label4</value>
+  </data>
+  <data name="&gt;&gt;Label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label4.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Label4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;Label3.Name" xml:space="preserve">
+    <value>Label3</value>
+  </data>
+  <data name="&gt;&gt;Label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label3.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Label3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;Label2.Name" xml:space="preserve">
+    <value>Label2</value>
+  </data>
+  <data name="&gt;&gt;Label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label2.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Label2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;Button4off.Name" xml:space="preserve">
+    <value>Button4off</value>
+  </data>
+  <data name="&gt;&gt;Button4off.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button4off.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Button4off.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;Button4on.Name" xml:space="preserve">
+    <value>Button4on</value>
+  </data>
+  <data name="&gt;&gt;Button4on.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button4on.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Button4on.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;Button3off.Name" xml:space="preserve">
+    <value>Button3off</value>
+  </data>
+  <data name="&gt;&gt;Button3off.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button3off.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Button3off.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;Button3on.Name" xml:space="preserve">
+    <value>Button3on</value>
+  </data>
+  <data name="&gt;&gt;Button3on.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button3on.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Button3on.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;ButtonAllOff.Name" xml:space="preserve">
+    <value>ButtonAllOff</value>
+  </data>
+  <data name="&gt;&gt;ButtonAllOff.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonAllOff.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;ButtonAllOff.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;Button2off.Name" xml:space="preserve">
+    <value>Button2off</value>
+  </data>
+  <data name="&gt;&gt;Button2off.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button2off.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Button2off.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;ButtonAllOn.Name" xml:space="preserve">
+    <value>ButtonAllOn</value>
+  </data>
+  <data name="&gt;&gt;ButtonAllOn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ButtonAllOn.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;ButtonAllOn.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;Button2on.Name" xml:space="preserve">
+    <value>Button2on</value>
+  </data>
+  <data name="&gt;&gt;Button2on.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button2on.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Button2on.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;Button1off.Name" xml:space="preserve">
+    <value>Button1off</value>
+  </data>
+  <data name="&gt;&gt;Button1off.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button1off.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Button1off.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;Button1on.Name" xml:space="preserve">
+    <value>Button1on</value>
+  </data>
+  <data name="&gt;&gt;Button1on.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Button1on.Parent" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;Button1on.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="GroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 65</value>
+  </data>
+  <data name="GroupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>258, 222</value>
+  </data>
+  <data name="GroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="GroupBox1.Text" xml:space="preserve">
+    <value>Röle kontrolleri</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Name" xml:space="preserve">
+    <value>GroupBox1</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;GroupBox1.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
   <data name="Label6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -542,30 +746,6 @@
   <data name="&gt;&gt;Button1on.ZOrder" xml:space="preserve">
     <value>14</value>
   </data>
-  <data name="GroupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 65</value>
-  </data>
-  <data name="GroupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>258, 222</value>
-  </data>
-  <data name="GroupBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="GroupBox1.Text" xml:space="preserve">
-    <value>Röle kontrolleri</value>
-  </data>
-  <data name="&gt;&gt;GroupBox1.Name" xml:space="preserve">
-    <value>GroupBox1</value>
-  </data>
-  <data name="&gt;&gt;GroupBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;GroupBox1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;GroupBox1.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
   <metadata name="Timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
@@ -863,21 +1043,6 @@
   <data name="&gt;&gt;Button2.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="CheckBox1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="CheckBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 154</value>
-  </data>
-  <data name="CheckBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>83, 21</value>
-  </data>
-  <data name="CheckBox1.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="CheckBox1.Text" xml:space="preserve">
-    <value>Tekrarla</value>
-  </data>
   <data name="&gt;&gt;CheckBox1.Name" xml:space="preserve">
     <value>CheckBox1</value>
   </data>
@@ -889,24 +1054,6 @@
   </data>
   <data name="&gt;&gt;CheckBox1.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="Label16.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Label16.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="Label16.Location" type="System.Drawing.Point, System.Drawing">
-    <value>71, 118</value>
-  </data>
-  <data name="Label16.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 17</value>
-  </data>
-  <data name="Label16.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="Label16.Text" xml:space="preserve">
-    <value>dakika kapat</value>
   </data>
   <data name="&gt;&gt;Label16.Name" xml:space="preserve">
     <value>Label16</value>
@@ -920,18 +1067,6 @@
   <data name="&gt;&gt;Label16.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="NumericUpDown5.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="NumericUpDown5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 116</value>
-  </data>
-  <data name="NumericUpDown5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 22</value>
-  </data>
-  <data name="NumericUpDown5.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
   <data name="&gt;&gt;NumericUpDown5.Name" xml:space="preserve">
     <value>NumericUpDown5</value>
   </data>
@@ -943,24 +1078,6 @@
   </data>
   <data name="&gt;&gt;NumericUpDown5.ZOrder" xml:space="preserve">
     <value>2</value>
-  </data>
-  <data name="Label17.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Label17.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="Label17.Location" type="System.Drawing.Point, System.Drawing">
-    <value>71, 89</value>
-  </data>
-  <data name="Label17.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 17</value>
-  </data>
-  <data name="Label17.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="Label17.Text" xml:space="preserve">
-    <value>dakika kapat</value>
   </data>
   <data name="&gt;&gt;Label17.Name" xml:space="preserve">
     <value>Label17</value>
@@ -974,18 +1091,6 @@
   <data name="&gt;&gt;Label17.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="NumericUpDown6.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="NumericUpDown6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 87</value>
-  </data>
-  <data name="NumericUpDown6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 22</value>
-  </data>
-  <data name="NumericUpDown6.TabIndex" type="System.Int32, mscorlib">
-    <value>12</value>
-  </data>
   <data name="&gt;&gt;NumericUpDown6.Name" xml:space="preserve">
     <value>NumericUpDown6</value>
   </data>
@@ -997,24 +1102,6 @@
   </data>
   <data name="&gt;&gt;NumericUpDown6.ZOrder" xml:space="preserve">
     <value>4</value>
-  </data>
-  <data name="Label18.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Label18.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="Label18.Location" type="System.Drawing.Point, System.Drawing">
-    <value>71, 60</value>
-  </data>
-  <data name="Label18.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 17</value>
-  </data>
-  <data name="Label18.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="Label18.Text" xml:space="preserve">
-    <value>dakika kapat</value>
   </data>
   <data name="&gt;&gt;Label18.Name" xml:space="preserve">
     <value>Label18</value>
@@ -1028,18 +1115,6 @@
   <data name="&gt;&gt;Label18.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="NumericUpDown7.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="NumericUpDown7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 58</value>
-  </data>
-  <data name="NumericUpDown7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 22</value>
-  </data>
-  <data name="NumericUpDown7.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
   <data name="&gt;&gt;NumericUpDown7.Name" xml:space="preserve">
     <value>NumericUpDown7</value>
   </data>
@@ -1052,24 +1127,6 @@
   <data name="&gt;&gt;NumericUpDown7.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="Label19.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="Label19.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="Label19.Location" type="System.Drawing.Point, System.Drawing">
-    <value>71, 28</value>
-  </data>
-  <data name="Label19.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 17</value>
-  </data>
-  <data name="Label19.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="Label19.Text" xml:space="preserve">
-    <value>dakika kapat</value>
-  </data>
   <data name="&gt;&gt;Label19.Name" xml:space="preserve">
     <value>Label19</value>
   </data>
@@ -1081,18 +1138,6 @@
   </data>
   <data name="&gt;&gt;Label19.ZOrder" xml:space="preserve">
     <value>7</value>
-  </data>
-  <data name="NumericUpDown8.Enabled" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="NumericUpDown8.Location" type="System.Drawing.Point, System.Drawing">
-    <value>6, 26</value>
-  </data>
-  <data name="NumericUpDown8.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 22</value>
-  </data>
-  <data name="NumericUpDown8.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
   </data>
   <data name="&gt;&gt;NumericUpDown8.Name" xml:space="preserve">
     <value>NumericUpDown8</value>
@@ -1342,6 +1387,249 @@
   </data>
   <data name="&gt;&gt;GroupBox2.ZOrder" xml:space="preserve">
     <value>13</value>
+  </data>
+  <data name="CheckBox1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CheckBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 154</value>
+  </data>
+  <data name="CheckBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>83, 21</value>
+  </data>
+  <data name="CheckBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="CheckBox1.Text" xml:space="preserve">
+    <value>Tekrarla</value>
+  </data>
+  <data name="&gt;&gt;CheckBox1.Name" xml:space="preserve">
+    <value>CheckBox1</value>
+  </data>
+  <data name="&gt;&gt;CheckBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CheckBox1.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;CheckBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="Label16.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label16.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Label16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 118</value>
+  </data>
+  <data name="Label16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 17</value>
+  </data>
+  <data name="Label16.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="Label16.Text" xml:space="preserve">
+    <value>dakika kapat</value>
+  </data>
+  <data name="&gt;&gt;Label16.Name" xml:space="preserve">
+    <value>Label16</value>
+  </data>
+  <data name="&gt;&gt;Label16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label16.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;Label16.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="NumericUpDown5.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="NumericUpDown5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 116</value>
+  </data>
+  <data name="NumericUpDown5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 22</value>
+  </data>
+  <data name="NumericUpDown5.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown5.Name" xml:space="preserve">
+    <value>NumericUpDown5</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown5.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="Label17.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label17.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Label17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 89</value>
+  </data>
+  <data name="Label17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 17</value>
+  </data>
+  <data name="Label17.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="Label17.Text" xml:space="preserve">
+    <value>dakika kapat</value>
+  </data>
+  <data name="&gt;&gt;Label17.Name" xml:space="preserve">
+    <value>Label17</value>
+  </data>
+  <data name="&gt;&gt;Label17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label17.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;Label17.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="NumericUpDown6.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="NumericUpDown6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 87</value>
+  </data>
+  <data name="NumericUpDown6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 22</value>
+  </data>
+  <data name="NumericUpDown6.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown6.Name" xml:space="preserve">
+    <value>NumericUpDown6</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown6.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown6.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Label18.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label18.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Label18.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 60</value>
+  </data>
+  <data name="Label18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 17</value>
+  </data>
+  <data name="Label18.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="Label18.Text" xml:space="preserve">
+    <value>dakika kapat</value>
+  </data>
+  <data name="&gt;&gt;Label18.Name" xml:space="preserve">
+    <value>Label18</value>
+  </data>
+  <data name="&gt;&gt;Label18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label18.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;Label18.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="NumericUpDown7.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="NumericUpDown7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 58</value>
+  </data>
+  <data name="NumericUpDown7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 22</value>
+  </data>
+  <data name="NumericUpDown7.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown7.Name" xml:space="preserve">
+    <value>NumericUpDown7</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown7.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown7.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="Label19.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Label19.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="Label19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>71, 28</value>
+  </data>
+  <data name="Label19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 17</value>
+  </data>
+  <data name="Label19.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="Label19.Text" xml:space="preserve">
+    <value>dakika kapat</value>
+  </data>
+  <data name="&gt;&gt;Label19.Name" xml:space="preserve">
+    <value>Label19</value>
+  </data>
+  <data name="&gt;&gt;Label19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Label19.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;Label19.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="NumericUpDown8.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="NumericUpDown8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 26</value>
+  </data>
+  <data name="NumericUpDown8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 22</value>
+  </data>
+  <data name="NumericUpDown8.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown8.Name" xml:space="preserve">
+    <value>NumericUpDown8</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NumericUpDown, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown8.Parent" xml:space="preserve">
+    <value>GroupBox3</value>
+  </data>
+  <data name="&gt;&gt;NumericUpDown8.ZOrder" xml:space="preserve">
+    <value>8</value>
   </data>
   <metadata name="TimerCountDown.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>538, 17</value>
